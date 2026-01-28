@@ -126,6 +126,6 @@ El programa se ejecuta desde la clase `Main`, donde se:
 
 ---
 
-## ✍️ Autor
+## Sebastian Zapata
 
 Ejercicio académico para la asignatura **Estructuras de Datos**.
